@@ -11908,9 +11908,9 @@ border-bottom-right-radius: 50%;
 }
 .btn_wsp{
 	position:fixed;
-	width:60px;
-	height:60px;
-	bottom:40px;
+	width:61px;
+	height:61px;
+	bottom:50px;
 	right:40px;
 	background-color:#25d366;
 	color:#FFF;
